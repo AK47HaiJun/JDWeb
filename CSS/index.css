@@ -1,0 +1,175 @@
+/*中间部分开始*/
+/*分类开始*/
+.grit{
+	height: 471px;
+	background-color: red;
+}
+.banner-left{
+	width: 190px;
+	height: 452px;
+	background-color: #fff;
+	float: left;
+	padding: 10px 0;
+}
+.banner-left li a{
+	color: #626262;
+	font-size: 14px;
+}
+.banner-left li a:hover{
+	color: red;
+}
+.banner-left li{
+	padding-left: 18px;
+	padding-top: 11px;
+}
+.xiexian{
+	padding: 0 2px;
+	font-size: 12px;
+	color: #636363;
+}
+.banner-middle{
+	width: 790px;
+	height: 100%;
+	background-color: #fff;
+	float: left;
+}
+.banner-middle-img{
+	width: 591px;
+	height: 471px;
+	background: url(../images/banner_03.png) no-repeat;
+	float: left;
+}
+.banner-middle-one{
+	width: 189px;
+	height: 151px;
+	background: url(../images/bannerOne_03.png) no-repeat;
+	float: right;
+}
+.banner-middle-two{
+	width: 189px;
+	height: 151px;
+	background: url(../images/bannerTwo_03.png) no-repeat;
+	float: right;
+}
+.banner-middle-three{
+	width: 189px;
+	height: 151px;
+	background: url(../images/bannerThree_03.png) no-repeat;
+	float: right;
+}
+.p{
+	padding-bottom: 9px;
+}
+.banner-right{
+	height: 100%;
+	background-color: deepskyblue;
+}
+.Welcome{
+	height: 144px;
+	width: 215px;
+	float: right;
+	background-color: #fff;
+}
+.tupian{
+	display: block;
+	padding: 0 63px;
+}
+.Welcome p{
+	color: #919191;
+	font-size: 12px;
+	text-align: center;
+}
+.enterP{
+	text-align: center;
+	font-size: 13px;
+}
+.enterP a:hover{
+	background-color: red;
+}
+.enterP2 a{
+	color: #666666;
+}
+.newPeople{
+	border:1px solid #fff;
+	border-radius: 12px;
+	background-color: #fff;
+	color: red;
+}
+.newPeople:hover{
+	color: white;
+	background-color: red;
+}
+.newVip{
+	border:1px solid #fff;
+	border-radius: 12px; 
+	background-color: #363634;
+}
+.AD{
+	height: 144px;
+	width: 215px;
+	float: right;
+	background-color: #fff;
+	border-bottom: 1px solid #919191;
+}
+.cuxiao{
+	width: 195px;
+	height: 23px;
+	border: 1px solid #fff;
+}
+.shuxian{
+	color: 636363;
+	width: 1px;
+	height: 8px;#
+	line-height: 8px;
+}
+.cuixiao a{
+	font-size: 12px;
+	width: 54.8px;
+	height: 16px;
+	line-height: 16px;
+}
+.xiao1{
+	font-size: 12px;
+	border-right: 1px solid #dfe0e1;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.xiao1:hover{
+	border-bottom: 3px solid red;
+}
+.more{
+	font-size: 12px;
+	float: right;
+}
+.more:hover{
+	color: red;
+}
+.C{
+	color: #666666;
+}
+.ADnr{
+	font-size: 12px;
+	color: #666;
+}
+.news{
+	width: 100%;
+	height: 119px;
+	border: 1px solid #fff;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.news a{
+	width: 215px;
+	height: 21px;
+	padding-left: 15px;
+	
+}
+/*banner-grit的分类*/
+.banner-grit{
+	width: 215px;
+	height: 182px;
+	background-color: red;
+	float: right;
+}
